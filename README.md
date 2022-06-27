@@ -1,2 +1,2 @@
 # MNIST
-Simple MNIST classification Notebook
+My "Hello World" to the world of Deep Learning.
